@@ -1,3 +1,19 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'MyBlog'
+
+theme = "paper"
+
+
+twitter = 'YOUR_TWITTER_ID'     # twitter.com/YOUR_TWITTER_ID
+github = 'YOUR_GITHUB_ID'       # github.com/YOUR_GITHUB_ID
+instagram = 'YOUR_INSTAGRAM_ID' # instagram.com/YOUR_INSTAGRAM_ID
+rss = true                      # show rss icon with link
+# show home page profile
+avatar = 'GRAVATAR_EMAIL'       # Gravatar email or image url(e.g. "https://deno.land/logo.svg")
+name = 'YOUR_NAME'
+bio = 'YOUR_BIO'
+
+# misc
+ disableHLJS = true              # disable requesting highlight.js
+ monoDarkIcon = true             # show monochrome dark mode icon
